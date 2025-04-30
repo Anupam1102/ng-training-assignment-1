@@ -69,3 +69,6 @@ router.get('/api/tasks', (request, response) => {
       response.send(utils.createResult(error, items))
     })
   })
+
+
+module.exports = router;
