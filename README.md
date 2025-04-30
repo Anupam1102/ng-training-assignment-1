@@ -1,1 +1,0 @@
-# ng-training-assignment-1
